@@ -30,4 +30,4 @@ after_success:
   - docker push phamtruonggiang/reverseproxy:v1
   - docker push phamtruonggiang/udagram-api-user:v1
   - docker push phamtruonggiang/udagram-api-feed:v1
-  - docker push phamtruonggiang/udagram-frontend:local
+  - docker push phamtruonggiang/udagram-frontend:v1
